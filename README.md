@@ -5,7 +5,7 @@ Python Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://themagesh.in/)                                                 
 - 🌱 I’m currently learning and Pytthon and FastAPI and React js to my workflow
-- Engineeing at [Chartap]([https://www.highbrowtechnology.com/](https://www.chartap.com/)),
+- Engineeing at [Chartap]([https://www.chartap.com/](https://www.chartap.com/)),
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
