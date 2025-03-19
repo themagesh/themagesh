@@ -20,6 +20,8 @@ Python Developer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+![TheMagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMagesh&theme=blue-green)
+
 ![TheMagesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMagesh&theme=blue-green)
 
 [![TheMagesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMagesh&bg_color=050505&color=ffffff&line=00fa85&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
