@@ -23,4 +23,4 @@ Full Stack Developer
 
 ![TheMagesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMagesh&theme=blue-green)
 
-[![TheMagesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMagesh&bg_color=050505&color=ffffff&line=00fa85&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
